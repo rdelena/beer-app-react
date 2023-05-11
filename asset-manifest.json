@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rdelena/beer-app-react.git/static/css/main.49a62b8b.css",
+    "main.js": "/rdelena/beer-app-react.git/static/js/main.c74c8d3e.js",
+    "static/js/787.3d6454e7.chunk.js": "/rdelena/beer-app-react.git/static/js/787.3d6454e7.chunk.js",
+    "static/media/brewery.jpg": "/rdelena/beer-app-react.git/static/media/brewery.fc73c68c283551843192.jpg",
+    "index.html": "/rdelena/beer-app-react.git/index.html",
+    "main.49a62b8b.css.map": "/rdelena/beer-app-react.git/static/css/main.49a62b8b.css.map",
+    "main.c74c8d3e.js.map": "/rdelena/beer-app-react.git/static/js/main.c74c8d3e.js.map",
+    "787.3d6454e7.chunk.js.map": "/rdelena/beer-app-react.git/static/js/787.3d6454e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a62b8b.css",
+    "static/js/main.c74c8d3e.js"
+  ]
+}
