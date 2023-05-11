@@ -1,7 +1,7 @@
 {
   "name": "punk-api-react-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/rdelena/beer-app-react.git",
+  "homepage": "https://rdelena.github.io/beer-app-react/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
